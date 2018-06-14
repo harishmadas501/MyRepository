@@ -1,0 +1,9 @@
+first_name,last_name,account_no,first_line_address,current_energy_plan,chosen_plan
+Adrian,Smith,GAS001,3 The Street,Gas,fixed
+Caroline,Smith,ELE002,18 The Street,Electricity,variable
+Helen,Smith,DUL003,20 The Street,Dual,greener
+Kevin,Smith,GAS004,32 The Street,Gas,fixed
+Matt,Smith,ELE005,61 The Street,Electricity,variable
+Sarah,Smith,DUL006,99 The Street,Dual,greener
+Luke,Smith,GAS007,24 The Street,Gas,fixed
+John,Smith,ELE008,95 The Street,Electricity,variable

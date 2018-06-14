@@ -1,0 +1,40 @@
+#choose-plan-card-bg {
+	height: 100%;
+	width: 100%;
+	margin: none;
+	background: url(images/ezenergy_choose_plan_new_plan.jpg) no-repeat;
+	background-position: 0% 0%;
+	background-size: 100% 100%;
+}
+
+.choose-plan-card-btn {
+	position: absolute;
+	bottom: 3%;
+	background-position: 0% 0%;
+	display: block;
+	margin: 0;
+	width: 16%;
+	height: 20%;
+	cursor: pointer;
+}
+
+.choose-plan-card-btn:hover {
+	background-position: 0% 100% !important;
+}
+
+#fixed-rate {
+	left: 13%;
+	background: url(images/fixed_rate_button.png) no-repeat;
+}
+
+#variable-rate {
+	left: 43%;
+	background: url(images/var_rate_button.png) no-repeat;
+}
+
+#greener-energy {
+	left: 71%;
+	background: url(images/greener_energy_button.png) no-repeat;
+}
+
+v
